@@ -14,3 +14,7 @@ i = 0
 while i < len(list):
     if list[i] >= min and list[i] <= max: print(f'индекс {i}') 
     i+=1
+
+# for i in range(len(list)):
+#     if min<= list[i] <= max:
+#         print(i)
